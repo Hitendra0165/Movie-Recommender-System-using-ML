@@ -63,11 +63,6 @@ here is a demo,
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -98,9 +93,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Hitendra Bhamare
 Data Scientist
-Email: entbappy73@gmail.com
+Email: hitendrabhamare007@gmail.com
 
 ```
 
